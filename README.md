@@ -9,8 +9,7 @@ PyBer is a python based ride-sharing company. An analysis was performed on the r
 
 The total number of rides is the greatest in urban cities and lowest in rural cities. The number of rides in urban cities is 1000 and 1500 more than in suburban and rural cities, respectively. Similarly, there is a greater number of drivers in urban cities than in suburban and rural cities. Urban cities have 1915 and 2327 more drivers than suburban and rural cities, respectively. The total fare is also the highest in urban cities, which is $20,498.05 an $35,526.45 more than suburban and rural cities, respectively. 
 
-Since, the total rides, total driver 
-
+Since, the total rides, total drivers and total fares is the greatest in urban cities the average fare per ride and average fare per driver is the lowest in urban cities as expected. The average fare per ride is about $6 and $10 more in suburban and rural cities, respectively in comparison to urban cities. The average fare per driver is about $6 and $10 more in suburban and rural cities, respectively in comparison to urban cities.
 
 ![Fig7](https://github.com/mdhugge/PyBer_Analysis/blob/main/Analysis/Fig7.png)
 
